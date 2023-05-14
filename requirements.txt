@@ -1,0 +1,8 @@
+boddle==0.2.9
+nltk==3.8.1
+sqlalchemy==2.0.13
+requests==2.30.0
+bs4==0.0.1
+bottle==0.12.25
+numpy==1.24.3
+beautifulsoup4==4.12.2
